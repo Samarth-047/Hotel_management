@@ -62,7 +62,7 @@ Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
 
 
 * [DEMO video](https://drive.google.com/file/d/1Ig-EntZgjd1lRDXrK6lGLQp5PreQv0k_/view?usp=sharing)
-* [Github](https://drive.google.com/file/d/1Ig-EntZgjd1lRDXrK6lGLQp5PreQv0k_/view?usp=sharing)
+* [Github](https://github.com/Samarth-047/Hotel_management)
 
 
 
